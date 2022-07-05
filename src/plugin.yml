@@ -1,0 +1,14 @@
+main: me.chickenstyle.cosmetics.BetterCosmetics
+name: BetterCosmetics
+version: 1.0.0
+description: Better cosmetics!
+commands:
+  applyCosmetic:
+    aliases: ac
+    description: Plugin's sell command
+  #wonderfishing:
+    #aliases: wf
+    #description: Plugin's main command
+  #topfish:
+    #aliases: tf
+    #description: Fish leaderboard

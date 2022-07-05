@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BetterCosmetics:jar">
+    <output-path>D:/Test Servers/Test Server 1.8.8/plugins</output-path>
+    <root id="archive" name="BetterCosmetics.jar">
+      <element id="module-output" name="BetterCosmetics" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Dependencies/jsoup-1.14.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
